@@ -1,0 +1,88 @@
+1597253492163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Luis\\AppData\\Local\\Temp\\rust_mozprofile3dmkS5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597253526978	Marionette	INFO	Listening on port 18153
+1597253527376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597253533369	Marionette	INFO	Stopped listening on port 18153
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+1597253536180	Marionette	ERROR	[26] No reply from Marionette:Register
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: can't access property "messageManager", this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: can't access property "messageManager", this.docShell is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597253543275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Luis\\AppData\\Local\\Temp\\rust_mozprofilezFyPDv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597253549116	Marionette	INFO	Listening on port 18233
+1597253549496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597253566970	Marionette	INFO	Stopped listening on port 18233
+JavaScript error: https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597687490656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Luis\\AppData\\Local\\Temp\\rust_mozprofilenI25uE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 18224, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597687515093	Marionette	INFO	Listening on port 17449
+1597687515524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597687529411	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+async*interaction.clickElement@chrome://marionette/content/interaction.js:131:11
+clickElement/<@chrome://marionette/content/listener.js:1344:28
+navigate/<@chrome://marionette/content/listener.js:446:13
+navigate@chrome://marionette/content/listener.js:447:7
+clickElement@chrome://marionette/content/listener.js:1342:18
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+setTimeout handler*l/<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29964
+c@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:28487
+fire@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:28523
+c@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:28487
+ready@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:31460
+B@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:31239
+EventListener.handleEvent*@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:31608
+@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:220
+@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:225
+1597692504806	Marionette	INFO	Stopped listening on port 17449
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rce://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597687540506	Marionette	INFO	Listening on port 17508
+1597687540978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597687553973	Marionette	INFO	Stopped listening on port 17508
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
